@@ -1,0 +1,3 @@
+add * : lay tat ca
+add.(tenduoi) : lay het file cung ten duoi
+add tenfile : lay file
